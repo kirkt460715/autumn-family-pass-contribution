@@ -1,0 +1,5 @@
+term_id,supplier,component,fixed_cents,avoidable_if_stopped,cancelled_on
+K1,B,lab,200000,no,
+K2,D,lab,150000,yes,
+K3,C,bus,42000,no,
+K4,E,hall,60000,yes,2026-11-28

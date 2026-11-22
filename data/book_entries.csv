@@ -1,0 +1,4 @@
+book_id,period,source,entry_scope,posted_cents
+BK1,2026-10,M-R12,unresolved,-6500
+BK2,2026-10,M012,receipts,20200
+BK3,2026-09,M-A03,issuer_discount,-800

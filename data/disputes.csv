@@ -1,0 +1,5 @@
+receipt,claim,order_id,component,resolved_cents,result,replacement_of,latest_resolution,recorded_at
+D1,Q12,O012,bus,3000,partial,,2026-11-22,2026-10-23
+D2,Q12,O012,bus,2500,closed,D1,2026-11-22,2026-11-07
+D3,Q12,O012,lab,4000,closed,,2026-11-22,2026-11-09
+D4,Q15,O015,lab,4200,closed,,2026-11-16,2026-11-04

@@ -1,0 +1,9 @@
+offer,component,weight,supplier,refundable,cost_cents,valid_from,valid_through
+P1,hall,50,A,unused,2100,2026-09-01,2026-10-31
+P1,lab,30,B,unused,4700,2026-09-01,2026-10-31
+P1,bus,20,C,open,1700,2026-09-01,2026-10-31
+P2,hall,45,A,unused,2200,2026-11-01,2026-12-05
+P2,lab,35,D,unused,3900,2026-11-01,2026-12-05
+P2,bus,20,C,open,2000,2026-11-01,2026-12-05
+P3,hall,50,E,none,2900,2026-11-15,2026-12-31
+P3,lab,50,B,unused,4300,2026-11-15,2026-12-31
